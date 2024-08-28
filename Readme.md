@@ -53,6 +53,8 @@ The destination port and protocol combination determine the applicable tag.
 **Important Note : Add your input files in the input folder & then build and run.
    After a successfull execution, you can find the output files in the output folder**  
 
+   **Provided sample input files as input/filelogs.txt and input/lookup_file.txt**
+
 ## Input Files
 
 1. **Flow Logs** (`input/filelogs.txt`): AWS VPC flow logs in version 2 format.
